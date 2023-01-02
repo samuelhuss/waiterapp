@@ -1,6 +1,6 @@
 # WaiterApp - O App do garçom
 
-![image]()
+![image](ast/capa.png)
 <hr/>
 
 ## O que é o WaiterApp?
