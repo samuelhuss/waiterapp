@@ -51,7 +51,7 @@ O WaiterApp foi um projeto desenvolvido durante a semana "O Poder do JavaScript"
 > Como rodar a API?
 ```bash
 # Como clonar
-$ git clone https://github.com/IagoDantas/waiterapp.git
+$ git clone https://github.com/samuelhuss/waiterapp.git
 # Acesse a api
 $ cd api
 # Conecte ao banco de dados colocando a sua `CONNECTIONSTRING` no arquivo `.env`
