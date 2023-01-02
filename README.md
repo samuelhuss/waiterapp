@@ -3,10 +3,8 @@
 ![image](ast/capa.png)
 <hr/>
 
-## O que é o WaiterApp?
+## O que é?
 <p align="center">
-<img src="" width="500" height="200">
-
 O WaiterApp foi um projeto desenvolvido durante a semana "O Poder do JavaScript", ministrado pelo Mateus Silva.
 </p>
 <hr/>
